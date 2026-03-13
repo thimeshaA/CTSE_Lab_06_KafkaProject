@@ -1,1 +1,1 @@
-# CTSE_Lab_06_KafkaProject
+# CTSE_Lab_06
